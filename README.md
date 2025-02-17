@@ -5,7 +5,7 @@ I'm a budding software engineer with a strong foundation in Human-Computer Inter
 💻 I specialize in Frontend  Development, leveraging technologies like JavaScript, React, Node.js, MongoDB to build scalable and user-friendly applications.
 
 ## 🚀 Current Activities  
-- 🔭 Currently working on a **Large-Scale E-commerce Platform**   
+- 🔭 Currently working on a **Large-Scale E-commerce Platform and CanSat**   
 - 💬 Ask me about **Python, React, JavaScript, UX/UI**  
 - ⚡ Fun fact: **I am from EEE, minor in CS, woring in webdev!!**
   
