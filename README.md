@@ -16,6 +16,8 @@ I'm a budding software engineer with a strong foundation in Human-Computer Inter
 - **Other Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000080?logo=matplotlib&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 - **Basic Programming**: ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
