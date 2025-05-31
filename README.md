@@ -29,16 +29,16 @@ I'm a budding software engineer with a strong foundation in Human-Computer Inter
 - ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white) [kaziabdurrahim946@gmail.com](mailto:kaziabdurrahim946@gmail.com)
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white) [linkedin.com/in/kaziabdurrahim/](https://www.linkedin.com/in/kaziabdurrahim/)
 
-
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaziAbdurRahim&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=KaziAbdurRahim&show_icons=true&theme=radical" height="150" alt="stats graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziAbdurRahim&layout=compact&theme=radical" height="150" alt="languages graph" />
+  </div>
 </div>
 
-## 📊 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziAbdurRahim&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+
+
 
 ## 🚀 About Me
 I am always eager to learn new technologies and improve my skills. My journey in web development started with a curiosity about how websites work, and it has now become a passion. I am also interested in the integration of software and hardware, leveraging my knowledge in Arduino programming and electronics.
