@@ -1,11 +1,9 @@
 # Hi there! 👋 I'm Kazi Abdur Rahim
 
-I'm a budding software engineer with a strong foundation in Human-Computer Interaction (HCI) and usability principles. I apply user-centered design thinking in my projects to create intuitive and accessible applications.
-
-💻 I specialize in Frontend  Development, leveraging technologies like JavaScript, React, Node.js, MongoDB to build scalable and user-friendly applications.
+Web Developer | Python Enthusiast
 
 ## 🚀 Current Activities  
-- 🔭 Currently working on a **Large-Scale E-commerce Platform and Groung Control System(GCS) of  CanSat**   
+- 🔭 Currently working on a **Large-Scale E-commerce Platform and Groung Control System(GCS) of CanSat**   
 - 💬 Ask me about **Python, React, JavaScript, UX/UI**  
 - ⚡ Fun fact: **I am from EEE, minor in CS, working in webdev and GUI!!**
   
