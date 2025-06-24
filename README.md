@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kazi Abdur Rahim
 
-Web Developer | Python Enthusiast
+SoftWare Developer | Python Enthusiast
 
 ## 🚀 Current Activities  
 - 🔭 Currently working on a **Large-Scale E-commerce Platform and Groung Control System(GCS) of CanSat**   
