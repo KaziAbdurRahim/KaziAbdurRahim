@@ -3,7 +3,7 @@
 SoftWare Developer | Python Enthusiast
 
 ## 🚀 Current Activities  
-- 🔭 Currently working on a **Large-Scale E-commerce Platform and Groung Control System(GCS) of CanSat**   
+- 🔭 Currently working on  **Groung Control System(GCS) of CanSat**   
 - 💬 Ask me about **Python, React, JavaScript, UX/UI**  
 - ⚡ Fun fact: **I am from EEE, minor in CS, working in webdev and GUI!!**
   
