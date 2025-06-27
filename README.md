@@ -36,12 +36,17 @@ SoftWare Developer | Python Enthusiast
 </div>
 
 
-
-
 ## 🚀 About Me
-I am always eager to learn new technologies and improve my skills. My journey in web development started with a curiosity about how websites work, and it has now become a passion. I am also interested in the integration of software and hardware, leveraging my knowledge in Arduino programming and electronics.
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+As an EEE student with a passion for code, circuits, and creative interfaces, I specialize in building systems that merge the digital and physical worlds. From crafting real-time telemetry dashboards for CanSat missions to designing robotics control panels using Python's Tkinter and threading, my journey is rooted in making complex data intuitive and interactive.
+
+My interest lies in creating ground control interfaces that don’t just display data—but tell a story through visuals. Whether it's monitoring satellite altitude, interpreting sensor feedback, or integrating Arduino-based modules, I believe a thoughtful GUI bridges the gap between engineering logic and human usability.
+
+💡 I love working where software meets hardware—especially in fields like aerospace, robotics, and IoT.
+
+Feel free to explore my repositories, and if you're into mission-critical interfaces, satellite projects, or robotics dashboards, I’d love to connect!
+
+
 
 
 
